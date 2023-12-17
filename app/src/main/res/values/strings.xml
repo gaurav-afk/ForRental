@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FOR RENTAL</string>
+    <string name="available">Available</string>
+    <string name="not_available">Not Available</string>
+</resources>
