@@ -1,4 +1,4 @@
-#Rental app allowing the landlord to rent their property on the app. Includes tenant flow allowing him to shortlist property list.
+#Rental app allowing the landlord to rent their property on the app. Includes tenant flow allowing him to shortlist properties.
 
 
 <img src="https://github.com/gaurav-afk/ForRental/assets/65609530/5f4bd54a-5d97-4dd3-8492-a97f049d84cd" width="300" height="630">
